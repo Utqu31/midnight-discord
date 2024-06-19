@@ -20,7 +20,7 @@
 	--font: 'figtree';
 
 	/* top left corner text */
-	--corner-text: 'Catppuccin';
+	--corner-text: 'Niggacord';
 
 	/* color of status indicators and window controls */
 	--online-indicator: #a6e3a1; /* change to #23a55a for default green */
@@ -87,8 +87,8 @@
 }
 
 /* catppuccin icon */
-.childWrapper__760c6:has(> svg:not(.favoriteIcon_adf80e)) {
-	background: url('https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png');
+.childWrapper_a6ce15:has(> svg:not(.favoriteIcon_adf80e)) {
+	background: url('');
 	background-color: transparent !important;
 	background-size: cover;
 }
